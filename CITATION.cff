@@ -2,6 +2,14 @@ cff-version: 1.2.0
 authors:
 - family-names: "Aloy"
   given-names: "Albert"
+- family-names: "Fadel"
+  given-names: "Matteo"
+- family-names: "Galley"
+given-names: "Thomas D."
+- family-names: "Jones"
+given-names: "Caroline L."
+- family-names: "Müller"
+given-names: "Markus P."
 title: "Source code for: Theory-independent monitoring of the decoherence of a superconducting qubit with generalized contextuality"
 doi: XX.XXXX
 date-released: 2024-10-01
