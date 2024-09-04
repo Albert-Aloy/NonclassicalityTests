@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Aloy"
+  given-names: "Albert"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Fadel"
+  given-names: "Matteo"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Galley"
+  given-names: "Thomas D."
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Jones"
+  given-names: "Caroline L."
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Müller"
+  given-names: "Markus P."
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Source code for: Theory-independent monitoring of the decoherence of a superconducting qubit with generalized contextuality"
+doi: XX.XXXX/
+date-released: 2024-10-01
+url: "https://github.com/Albert-Aloy/NonclassicalityTests"
