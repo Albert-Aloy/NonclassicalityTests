@@ -1,6 +1,6 @@
 # Numerical Methods and Experimental Data from the paper *Theory-independent monitoring of the decoherence of a superconducting qubit with generalized contextuality*
 
-This repository contains the numerical methods, code, and experimental data accompanying the paper [arXiv:2411.13421](https://arxiv.org/abs/2411.13421). The provided Jupyter notebook is self-contained, allowing users to reproduce the results presented in the paper. Additionally, it includes illustrative examples to demonstrate the methods in action.
+This repository contains the numerical methods, code, and experimental data accompanying the paper [arXiv:2411.13421](https://arxiv.org/abs/2411.13421). The provided Jupyter notebook is self-contained, allowing users to reproduce the results presented in the paper. Additionally, it includes illustrative examples to demonstrate the methods in action. Feel free to contact us for any doubt or suggestion.
 
 ---
 
