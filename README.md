@@ -1,6 +1,6 @@
 # Numerical Methods and Experimental Data from the paper *Theory-independent monitoring of the decoherence of a superconducting qubit with generalized contextuality* [arXiv:2411.13421](https://arxiv.org/abs/2411.13421)
 
-This repository contains the numerical methods, code, and experimental data accompanying the paper [arXiv:2411.13421](https://arxiv.org/abs/2411.13421). The provided Jupyter notebook is self-contained, allowing users to reproduce the results presented in the paper. Additionally, it includes illustrative examples to demonstrate the methods in action. Feel free to contact us for any doubt or suggestion.
+This repository contains the numerical methods, code, and experimental data accompanying the paper [(arXiv:2411.13421)](https://arxiv.org/abs/2411.13421). The provided Jupyter notebook is self-contained, allowing users to reproduce the results presented in the paper. Additionally, it includes illustrative examples to demonstrate the methods in action. Feel free to contact us for any doubt or suggestion.
 
 ---
 
@@ -34,7 +34,7 @@ The experimental data is organized into two main folders:
    - This folder contains data from the experimental runs without time evolution in the preparation procedure.
    - Each file is named as `zzzGPTrun{run_number}`, where `{run_number}` goes from 1 to 10, labeling the experimental run.
 
-2. **`data_with_time_evolutions` Folder**:
+2. **`Data_with_time_evolutions` Folder**:
    - This folder contains data from experimental runs where the qubit was allowed to evolve for a specified duration (`τ`) as part of the preparation procedure.
    - Each file is named as `zzzGPTwait{tau}run{run_number}`, where:
      - `{tau}` specifies the time duration in nanoseconds for which the qubit was left evolving.
